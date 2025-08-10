@@ -1,7 +1,8 @@
 Title :  How to get input from user
-Output : 40
 Programme : 
        a=10
        b=30
        c=a+b
        print(c)
+Output :
+     40
