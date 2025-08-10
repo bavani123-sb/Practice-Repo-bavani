@@ -1,8 +1,8 @@
 Title :  How to get input from user
 Programme : 
-       a=10
+       a=10 
        b=30
-       c=a+b
-       print(c)
+       c=5
+       print(max(a,b,c))
 Output :
-     40
+     30
