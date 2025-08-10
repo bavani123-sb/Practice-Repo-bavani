@@ -1,8 +1,8 @@
 Title :  How to get input from user
 Programme : 
-       a=10
-       b=30
+       a=35
+       b=20
        c=a+b
        print(c)
 Output :
-     40
+     55
