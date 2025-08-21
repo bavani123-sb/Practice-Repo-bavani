@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First HTML Page</title>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+<center>
+ <label id="lblEmailId"> EmailId:</label><input type="text" id="txtEmailId"/><br>
+<label id="lblPassword"> Password:</label><input type="password" id="txtPassword" /><br>
+<input type="button" value="Login"/>
+</center>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
